@@ -1,0 +1,13 @@
+.git
+.venv
+.rag_data
+.pytest_cache
+__pycache__
+*.pyc
+artifacts
+deliverables
+docs
+tests
+scripts
+.env
+.DS_Store
